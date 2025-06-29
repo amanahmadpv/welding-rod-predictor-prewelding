@@ -9,7 +9,7 @@ top_features = joblib.load("features_b.pkl")
 
 # App config
 st.set_page_config(page_title="Model B: Pre-Welding Rod Estimator", layout="wide")
-st.title("🔧 Model B — Welding Rod Estimator (Pre-Welding Stage)")
+st.title("🔧 Model B - Welding Rod Estimator (Pre-Welding Stage)")
 st.markdown("""
 This app predicts **welding rod consumption (kg/ton)** just before welding begins.  
 It uses real-time inputs from the production floor.
