@@ -54,9 +54,7 @@ These include numeric, label-encoded, and encoded categorical features represent
 
 You can try this model live without installing anything using the Streamlit Cloud deployment below:
 
-🔗 **[Open Model B App](https://your-username-welding-model-b.streamlit.app)**
-
-> Replace `your-username` with your actual Streamlit URL.
+🔗 **[Open Model B App](https://welding-rod-predictor-prewelding-pxneyrmfsf6qwpnqokux5p.streamlit.app/)**
 
 ---
 
